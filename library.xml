@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="b1">
+    <title>Война и мир</title>
+    <author>Лев Толстой</author>
+    <year>1869</year>
+    <genre>Роман</genre>
+    <price>499.99</price>
+  </book>
+  <book id="b2">
+    <title>1984</title>
+    <author>Джордж Оруэлл</author>
+    <year>1949</year>
+    <genre>Антиутопия</genre>
+    <price>299.50</price>
+  </book>
+  <book id="b3">
+    <title>Мастер и Маргарита</title>
+    <author>Михаил Булгаков</author>
+    <year>1967</year>
+    <genre>Фантастика</genre>
+    <price>399.00</price>
+  </book>
+</library>
